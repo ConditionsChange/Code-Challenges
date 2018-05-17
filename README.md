@@ -6,7 +6,9 @@
 
 ## HackerRank
 
-* simple-array-sum (Given an array of integers, find the sum of its elements.)
-[Repl.it solution](https://repl.it/@kcruzdev/BuoyantSlimyParticles) | [HackerRank Link](https://www.hackerrank.com/challenges/simple-array-sum/problem)
-* compare-the-triplets (Given a pair of arrays with 3 items each, return comparison points) 
-[Repl.it solution](https://repl.it/@kcruzdev/LowestFumblingTriangles) | [HackerRank Link](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
+* _**simple-array-sum**_ (Given an array of integers, find the sum of its elements.)
+  * [Repl.it solution](https://repl.it/@kcruzdev/BuoyantSlimyParticles) | [HackerRank Link](https://www.hackerrank.com/challenges/simple-array-sum/problem)
+* _**compare-the-triplets**_ (Given a pair of arrays with 3 items each, return comparison points)
+  * [Repl.it solution](https://repl.it/@kcruzdev/LowestFumblingTriangles) | [HackerRank Link](https://www.hackerrank.com/challenges/compare-the-triplets/problem) 
+* _**diagonal-difference**_ (Given a square matrix, calculate the absolute difference between the sums of its diagonals.) 
+  * [Repl.it solution](https://repl.it/@kcruzdev/UnitedRuddyEmulator) | [HackerRank Link](https://www.hackerrank.com/challenges/diagonal-difference/problem)
