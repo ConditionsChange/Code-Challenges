@@ -14,3 +14,5 @@
   * [Repl.it solution](https://repl.it/@kcruzdev/UnitedRuddyEmulator) | [HackerRank Link](https://www.hackerrank.com/challenges/diagonal-difference/problem)
 * _**plus-minus**_ (Given an array of integers, calculate the fractions of its elements that are positive, negative, and are zeros.) 
   * [Repl.it solution](https://repl.it/@kcruzdev/CrazyImmenseMultitasking) | [HackerRank Link](https://www.hackerrank.com/challenges/plus-minus/problem)
+* _**staircase**_ (Constuct a right-aligned starcase of integer n) 
+  * [Repl.it solution](https://repl.it/@kcruzdev/HardtofindMelodicCybernetics) | [HackerRank Link](https://www.hackerrank.com/challenges/staircase/problem)
