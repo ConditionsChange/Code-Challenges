@@ -16,3 +16,5 @@
   * [Repl.it solution](https://repl.it/@kcruzdev/CrazyImmenseMultitasking) | [HackerRank Link](https://www.hackerrank.com/challenges/plus-minus/problem)
 * _**staircase**_ (Constuct a right-aligned starcase of integer n) 
   * [Repl.it solution](https://repl.it/@kcruzdev/HardtofindMelodicCybernetics) | [HackerRank Link](https://www.hackerrank.com/challenges/staircase/problem)
+* _**mini-max-sum**_ (Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers.) 
+  * [Repl.it solution](https://repl.it/@kcruzdev/UnsungUntriedExternalcommand) | [HackerRank Link](https://www.hackerrank.com/challenges/mini-max-sum/problem)
