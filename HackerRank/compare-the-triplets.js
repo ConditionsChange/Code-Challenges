@@ -1,6 +1,6 @@
 //Compare The Triplets
 //HackerRank: https://www.hackerrank.com/challenges/compare-the-triplets/problem (completed in node.js)
-//Repl.it: https://repl.it/@kcruzdev/LowestFumblingTriangles 
+//Repl.it: https://repl.it/@kcruzdev/CompareTheTriplets 
 
 // Given A and B, can you compare the two arrays and print their respective comparison points?
 

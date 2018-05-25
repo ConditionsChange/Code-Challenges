@@ -1,6 +1,6 @@
 //Plus Minus
 //HackerRank: https://www.hackerrank.com/challenges/plus-minus/problem (completed in node.js)
-//Repl.it: https://repl.it/@kcruzdev/CrazyImmenseMultitasking
+//Repl.it: https://repl.it/@kcruzdev/PlusMinus
 
 // Given an array of integers, calculate the fractions of its elements that are positive, negative, and are zeros. Print the decimal value of each fraction on a new line.
 

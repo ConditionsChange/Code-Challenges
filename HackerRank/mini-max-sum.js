@@ -1,6 +1,6 @@
-//Staircase
+//Mini Max Sum
 //HackerRank: https://www.hackerrank.com/challenges/mini-max-sum/problem (completed in node.js)
-//Repl.it: https://repl.it/@kcruzdev/UnsungUntriedExternalcommand
+//Repl.it: https://repl.it/@kcruzdev/MiniMaxSum
 
 // Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers.
 

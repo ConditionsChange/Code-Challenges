@@ -1,6 +1,6 @@
 //Diagonal Difference
 //HackerRank: https://www.hackerrank.com/challenges/diagonal-difference/problem (completed in node.js)
-//Repl.it: https://repl.it/@kcruzdev/UnitedRuddyEmulator
+//Repl.it: https://repl.it/@kcruzdev/DiagonalDifference
 
 // Given a square matrix, calculate the absolute difference between the sums of its diagonals.
 

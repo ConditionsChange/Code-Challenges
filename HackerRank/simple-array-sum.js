@@ -1,6 +1,6 @@
 //Simple Array Sum
 //HackerRank: https://www.hackerrank.com/challenges/simple-array-sum/problem (completed in node.js)
-//Repl.it https://repl.it/@kcruzdev/BuoyantSlimyParticles
+//Repl.it https://repl.it/@kcruzdev/SimpleArraySum
 
 // Given an array of integers, find the sum of its elements.
 

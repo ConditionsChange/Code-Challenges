@@ -1,6 +1,6 @@
 //Staircase
 //HackerRank: https://www.hackerrank.com/challenges/staircase/problem (completed in node.js)
-//Repl.it: https://repl.it/@kcruzdev/HardtofindMelodicCybernetics
+//Repl.it: https://repl.it/@kcruzdev/Staircase
 
 // Constuct a right-aligned starcase of integer n
 
