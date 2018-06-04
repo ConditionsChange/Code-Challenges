@@ -22,3 +22,7 @@
   * [Repl.it solution](https://repl.it/@kcruzdev/BirthdayCakeCandles) | [HackerRank Link](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
 * _**time-conversion**_ (Given a time in 12-hour AM/PM format, convert it to military (24-hour) time.) 
   * [Repl.it solution](https://repl.it/@kcruzdev/TimeConversion) | [HackerRank Link](https://www.hackerrank.com/challenges/time-conversion/problem)
+* _**apple-and-orange**_ (Given the value of d for n apples and m oranges, can you determine how many apples and oranges will fall on Sam's house? (See HackerRank problem for more detail.)) 
+  * [Repl.it solution](https://repl.it/@kcruzdev/AppleandOrange) | [HackerRank Link](https://www.hackerrank.com/challenges/apple-and-orange/problem)
+* _**grading-students**_ (Given the value of d for n apples and m oranges, can you determine how many apples and oranges will fall on Sam's house? (See HackerRank problem for more detail.)) 
+  * [Repl.it solution](https://repl.it/@kcruzdev/GradingStudents) | [HackerRank Link](https://www.hackerrank.com/challenges/grading/problem)
