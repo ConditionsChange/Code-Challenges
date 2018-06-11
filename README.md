@@ -32,3 +32,7 @@
   * [Repl.it solution](https://repl.it/@kcruzdev/BetweenTwoSets) | [HackerRank Link](https://www.hackerrank.com/challenges/between-two-sets/problem)
 * _**breaking-the-records**_ (Given Maria's array of scores for a season of n games, find and print the number of times she breaks her records for most and least points scored during the season.) 
   * [Repl.it solution](https://repl.it/@kcruzdev/BreakingtheRecords) | [HackerRank Link](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
+* _**birthday-chocolate**_ (Lily has a chocolate bar that she wants to share with Ron for his birthday. You must determine how many ways she can divide the chocolate.) 
+  * [Repl.it solution](https://repl.it/@kcruzdev/BirthdayChocolate) | [HackerRank Link](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
+* _**divisible-sum-pairs**_ (You are given an array of n integers, a0, a1, ..., a(n-1), and a positive integer, k. Find and print the number of (i, j) pairs where i < j and ai + aj is divisible by k.) 
+  * [Repl.it solution](https://repl.it/@kcruzdev/DivisibleSumPairs) | [HackerRank Link](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
