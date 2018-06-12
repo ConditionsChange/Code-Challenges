@@ -36,3 +36,5 @@
   * [Repl.it solution](https://repl.it/@kcruzdev/BirthdayChocolate) | [HackerRank Link](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
 * _**divisible-sum-pairs**_ (You are given an array of n integers, a0, a1, ..., a(n-1), and a positive integer, k. Find and print the number of (i, j) pairs where i < j and ai + aj is divisible by k.) 
   * [Repl.it solution](https://repl.it/@kcruzdev/DivisibleSumPairs) | [HackerRank Link](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
+* _**cat-and-a-mouse**_ (You are given q queries in the form of x, y, and z representing the respective positions for cats A and B, and for mouse C. Complete the function catAndMouse to return the appropriate answer to each query, which will be printed on a new line.) 
+  * [Repl.it solution](https://repl.it/@kcruzdev/CatsAndAMouse) | [HackerRank Link](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
