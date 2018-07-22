@@ -38,3 +38,5 @@
   * [Repl.it solution](https://repl.it/@kcruzdev/DivisibleSumPairs) | [HackerRank Link](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
 * _**cat-and-a-mouse**_ (You are given q queries in the form of x, y, and z representing the respective positions for cats A and B, and for mouse C. Complete the function catAndMouse to return the appropriate answer to each query, which will be printed on a new line.) 
   * [Repl.it solution](https://repl.it/@kcruzdev/CatsAndAMouse) | [HackerRank Link](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
+* _**the-hurdle-race**_ (Given an array of hurdle heights, and an initial maximum height Dan can jump, k, determine the minimum number of magic potion doses that increase jump height that Dan must take to be able to clear all the hurdles in the race.) 
+  * [Repl.it solution](https://repl.it/@kcruzdev/TheHurdleRace) | [HackerRank Link](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
