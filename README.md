@@ -42,3 +42,5 @@
   * [Repl.it solution](https://repl.it/@kcruzdev/TheHurdleRace) | [HackerRank Link](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
 * _**utopian-tree**_ (The Utopian Tree goes through 2 cycles of growth every year. Each spring, it doubles in height. Each summer, its height increases by 1 meter. Laura plants a Utopian Tree sapling with a height of 1 meter at the onset of spring. How tall will her tree be after n growth cycles?) 
   * [Repl.it solution](https://repl.it/@kcruzdev/UtopianTree) | [HackerRank Link](https://www.hackerrank.com/challenges/utopian-tree/problem)
+* _**angry-professor**_ (Given the arrival time of each student and a threshold number of attendees, determine if the class is canceled.) 
+  * [Repl.it solution](https://repl.it/@kcruzdev/AngryProfessor) | [HackerRank Link](https://www.hackerrank.com/challenges/angry-professor/problem)
