@@ -13,6 +13,9 @@
 // Sample Output
 // 2
 
+// Explanation
+// Dan's character can jump a maximum of k=4 units, but the tallest hurdle has a height of h=6. To be able to jump all the hurdles, Dan must drink 6-4 = 2 doses.
+
 
 function hurdleRace(k, height) {
     if (Math.max(...height) - k < 0){

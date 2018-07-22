@@ -40,3 +40,5 @@
   * [Repl.it solution](https://repl.it/@kcruzdev/CatsAndAMouse) | [HackerRank Link](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
 * _**the-hurdle-race**_ (Given an array of hurdle heights, and an initial maximum height Dan can jump, k, determine the minimum number of magic potion doses that increase jump height that Dan must take to be able to clear all the hurdles in the race.) 
   * [Repl.it solution](https://repl.it/@kcruzdev/TheHurdleRace) | [HackerRank Link](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
+* _**utopian-tree**_ (The Utopian Tree goes through 2 cycles of growth every year. Each spring, it doubles in height. Each summer, its height increases by 1 meter. Laura plants a Utopian Tree sapling with a height of 1 meter at the onset of spring. How tall will her tree be after n growth cycles?) 
+  * [Repl.it solution](https://repl.it/@kcruzdev/UtopianTree) | [HackerRank Link](https://www.hackerrank.com/challenges/utopian-tree/problem)
